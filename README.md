@@ -1,7 +1,7 @@
 # 📘 Documentación del Proyecto: Simulador de Planificación de Procesos
 
 ## Introducción
-La planificación de procesos es una de las funciones más importantes de los sistemas operativos, ya que determina qué proceso se ejecutará en la CPU en un momento dado.  
+La planificación de procesos es una de las funciones más importantes de los sistemas operativos, ya que determina qué proceso se ejecutará en la CPU en un momento dado.
 Este proyecto implementa un **simulador interactivo** que permite experimentar con distintos algoritmos de planificación, visualizar sus resultados y comparar métricas clave.
 
 ---
