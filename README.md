@@ -88,5 +88,5 @@ Además, se muestran los promedios de estas métricas para evaluar el rendimient
 ---
 
 ## Conclusión
-Este simulador permite observar de forma clara cómo los diferentes algoritmos de planificación afectan el rendimiento de un conjunto de procesos.  
+Este simulador de procesos de planificacion permite observar de forma clara cómo los diferentes algoritmos de planificación afectan el rendimiento de un conjunto de procesos.  
 Es una herramienta útil para **estudiantes y docentes** de sistemas operativos, ya que convierte conceptos teóricos en resultados visuales y prácticos.# Lab2SO
